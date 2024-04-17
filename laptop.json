@@ -1,0 +1,55 @@
+{
+  "brand": "apple",
+  "name": "omen 1",
+  "cpu": {
+    "brand": "AMD",
+    "name": "Ryzen 3 PRO 3200GE",
+    "number_cores": 6,
+    "number_threads": 8,
+    "min_ghz": 2.680240104137491,
+    "max_ghz": 3.3590938096083436
+  },
+  "ram": {
+    "value": "24",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [{
+    "brand": "NVIDIA",
+    "name": "RTX 4090",
+    "min_ghz": 1.071675509080683,
+    "max_ghz": 1.109017829536028,
+    "memory": {
+      "value": "3",
+      "unit": "GIGABYTE"
+    }
+  }],
+  "storages": [{
+    "driver": "SSD",
+    "memory": {
+      "value": "205",
+      "unit": "GIGABYTE"
+    }
+  }, {
+    "driver": "HDD",
+    "memory": {
+      "value": "1",
+      "unit": "TERABYTE"
+    }
+  }],
+  "screen": {
+    "size_inch": 13.58518,
+    "resolution": {
+      "width": 4536,
+      "height": 2552
+    },
+    "panel": "IPS",
+    "multitouch": true
+  },
+  "keyboard": {
+    "layout": "QWERTZ"
+  },
+  "weight_kg": 1.799767582691875,
+  "price_usd": 1970.974648159474,
+  "release_year": 2023,
+  "updated_at": "2024-04-09T05:22:29.752506Z"
+}
